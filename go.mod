@@ -1,4 +1,4 @@
-module ama-api-go
+module github.com/juniorcintra/ama-api-go
 
 go 1.22.4
 

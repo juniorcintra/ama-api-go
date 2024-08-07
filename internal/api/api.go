@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"sync"
 
-	"ama-api-go/internal/store/pgstore"
+	"github.com/juniorcintra/ama-api-go/internal/store/pgstore"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"

@@ -8,8 +8,8 @@ import (
 	"os"
 	"os/signal"
 
-	"ama-api-go/internal/api"
-	"ama-api-go/internal/store/pgstore"
+	"github.com/juniorcintra/ama-api-go/internal/api"
+	"github.com/juniorcintra/ama-api-go/internal/store/pgstore"
 
 	"github.com/jackc/pgx/v5/pgxpool"
 	"github.com/joho/godotenv"

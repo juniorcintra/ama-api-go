@@ -6,7 +6,7 @@ import (
 	"log/slog"
 	"net/http"
 
-	"ama-api-go/internal/store/pgstore"
+	"github.com/juniorcintra/ama-api-go/internal/store/pgstore"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/google/uuid"
